@@ -19,12 +19,14 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  - name: Monday
   - name: Tuesday
     events:
       - name: Lecture
         start: 9:30 AM
         end: 10:50 AM
         location: Lutkin Hall
+  - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
