@@ -17,7 +17,7 @@ title: "CS340 - Fall 2023"
 tagline: "CS340 - Introduction to Computer Networking"
 description: "Northwestern University, Fall 2023"
 author: Esteban Carisimo
-baseurl: '/fall2022' # the subpath of your site, e.g. /blog
+baseurl: '/fall2023' # the subpath of your site, e.g. /blog
 url: 'https://northwestern-cs340.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
