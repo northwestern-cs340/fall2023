@@ -2,7 +2,7 @@
 title: Week 6
 ---
 
-Mon Oct 22
+Mon Oct 23
 : **Project 2**{: .label .label-red }: **DUE**
 
 Tue Oct 24
