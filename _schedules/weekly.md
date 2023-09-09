@@ -25,18 +25,26 @@ schedule:
       - name: Lecture
         start: 9:30 AM
         end: 10:50 AM
-        location: Lutkin Hall
+        location: Annenberg Hall G21
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 9:30 AM
         end: 10:50 AM
-        location: Lutkin Hall
+        location: Annenberg Hall G21
+      - name: Office Hours
+        start: 1:30 PM
+        end: 2:30 PM
+        location: Rodney (Zoom)
   - name: Friday
     events:
       - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: Esteban (Zoom)
+      - name: Office Hours
+        start: 3:00 PM
+        end: 4:00 PM
+        location: Wenxuan (Zoom)
 ---

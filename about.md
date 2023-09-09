@@ -25,6 +25,7 @@ description: >-
 ## Office Hours
 
 - Esteban's: Fri 11:00am-12:00pm ([Zoom](https://northwestern.zoom.us/j/98577867972))
+- Rodney's: Thu 1:30pm-2:30pm ([Zoom](https://northwestern.zoom.us/j/8236288792))
 
 ---
 
