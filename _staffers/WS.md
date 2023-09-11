@@ -7,4 +7,4 @@ photo: WS.jpg
 office-hours: Fri 3:00pm-4:00pm
 ---
 
-[Zoom link for Office Hours]()
+[Zoom link for Office Hours](https://northwestern.zoom.us/j/92218061167)

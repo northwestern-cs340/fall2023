@@ -26,6 +26,10 @@ schedule:
         start: 9:30 AM
         end: 10:50 AM
         location: Annenberg Hall G21
+      - name: Office Hours
+        start: 1:30 PM
+        end: 2:30 PM
+        location: Ying (Zoom)
   - name: Wednesday
   - name: Thursday
     events:
