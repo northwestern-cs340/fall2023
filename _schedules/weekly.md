@@ -20,6 +20,11 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
+    events:
+        - name: Office Hours
+          start: 1:30 PM
+          end: 2:30 PM
+          location: Grigorii (Zoom)
   - name: Tuesday
     events:
       - name: Lecture
