@@ -26,7 +26,7 @@ description: >-
 
 - Esteban's: Fri 11:00am-12:00pm ([Zoom](https://northwestern.zoom.us/j/98577867972))
 - Wenxuan's: Fri 1:30pm-2:30pm ([Zoom](https://northwestern.zoom.us/j/92218061167))
-- Ying's: Tue 1:30pm-2:30pm ([Zoom](https://northwestern.zoom.us/j/99617862800))
+- Ying's: Tue 11:30am-12:30pm ([Zoom](https://northwestern.zoom.us/j/99617862800))
 - Rodney's: Thu 1:30pm-2:30pm ([Zoom](https://northwestern.zoom.us/j/8236288792))
 - Grigorii's: Mon 1:30pm-2:30pm ([Zoom](https://northwestern.zoom.us/j/96379987405))
 
