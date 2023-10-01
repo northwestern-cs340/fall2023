@@ -48,13 +48,13 @@ schedule:
         end: 10:50 AM
         location: Annenberg Hall G21
       - name: Office Hours
-        start: 1:30 PM
-        end: 2:30 PM
-        location: Rodney (Zoom)
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Rodney (UNV101)
   - name: Friday
     events:
       - name: Office Hours
         start: 3:00 PM
         end: 4:00 PM
-        location: Wenxuan (Zoom)
+        location: Wenxuan (Mudd 3303)
 ---
