@@ -37,9 +37,9 @@ schedule:
         location: Ying (Zoom)
   - name: Wednesday
     - name: Office Hours
-        start: 12:00 PM
-        end: 1:00 PM
-        location: Esteban (Mudd 3514)
+      start: 12:00 PM
+      end: 1:00 PM
+      location: Esteban (Mudd 3514)
   - name: Thursday
     events:
       - name: Lecture
