@@ -36,6 +36,10 @@ schedule:
         end: 12:30 PM
         location: Ying (Zoom)
   - name: Wednesday
+    - name: Office Hours
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Esteban (Mudd 3514)
   - name: Thursday
     events:
       - name: Lecture
@@ -48,10 +52,6 @@ schedule:
         location: Rodney (Zoom)
   - name: Friday
     events:
-      - name: Office Hours
-        start: 11:00 AM
-        end: 12:00 PM
-        location: Esteban (Zoom)
       - name: Office Hours
         start: 3:00 PM
         end: 4:00 PM
