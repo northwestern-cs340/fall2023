@@ -24,7 +24,7 @@ description: >-
 
 ## Office Hours
 
-- Esteban's: Wed 12:00pm-1:00pm (Mudd 3514)
+- Esteban's: Wed 12:00pm-1:00pm (Mudd 3516)
 - Wenxuan's: Fri 1:30pm-2:30pm (Mudd 3303)
 - Ying's: Tue 11:30am-12:30pm ([Zoom](https://northwestern.zoom.us/j/99617862800))
 - Rodney's: Thu 2:00pm-3:00pm (UNV101)
