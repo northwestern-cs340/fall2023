@@ -40,7 +40,7 @@ schedule:
       - name: Office Hours
         start: 12:00 PM
         end: 1:00 PM
-        location: Esteban (Mudd 3516)
+        location: Esteban (Mudd 3416)
   - name: Thursday
     events:
       - name: Lecture
