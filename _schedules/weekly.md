@@ -24,7 +24,7 @@ schedule:
         - name: Office Hours
           start: 1:30 PM
           end: 2:30 PM
-          location: Grigorii (Zoom)
+          location: Grigorii (TCHLG68)
   - name: Tuesday
     events:
       - name: Lecture

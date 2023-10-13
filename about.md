@@ -28,7 +28,7 @@ description: >-
 - Wenxuan's: Fri 1:30pm-2:30pm (Mudd 3303)
 - Ying's: Tue 11:30am-12:30pm ([Zoom](https://northwestern.zoom.us/j/99617862800))
 - Rodney's: Thu 2:00pm-3:00pm (UNV101)
-- Grigorii's: Mon 1:30pm-2:30pm ([Zoom](https://northwestern.zoom.us/j/96379987405))
+- Grigorii's: Mon 1:30pm-2:30pm (TCHLG68)
 
 ---
 
