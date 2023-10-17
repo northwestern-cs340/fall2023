@@ -34,7 +34,7 @@ schedule:
       - name: Office Hours
         start: 11:30 AM
         end: 12:30 PM
-        location: Ying (Zoom)
+        location: Ying (Mudd 1st floor - lobby)
   - name: Wednesday
     events:
       - name: Office Hours
